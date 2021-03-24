@@ -1,0 +1,3 @@
+get user location and convert to latitude and longitude with https://developers.google.com/maps/documentation/geocoding/overview =>
+send latitude and longitude to https://openchargemap.org =>
+get closest charging location and display on map https://developers.google.com/maps
