@@ -7,6 +7,7 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import GetLocationInfo from '/components/GetLocationInfo.vue'
 
 export default {
   name: 'App',
